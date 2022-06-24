@@ -42,12 +42,27 @@ Rita Oliveira (Student Rep) </p>
 # **Submit your abstract** <a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfXUvKfzcYhiuwSzkKmoOWrozMi4i4Vxg-fzmlzExt6KjFdFg/viewform">HERE</a> 😻
  FINAL Deadline: 30th of May at 5pm (UTC +1)
 
-# **Registration** is NOW OPEN! 🎫
-Get your tickets <a target="_blank" href="https://www.eventbrite.com/e/2nd-ismrm-iberian-chapter-annual-meeting-tickets-324608140687">HERE</a> 
+# **Registration** <a target="_blank" href="https://www.eventbrite.com/e/2nd-ismrm-iberian-chapter-annual-meeting-tickets-324608140687">HERE</a> 🎫
 
-<p> 2022 ISMRM-IBC Annual Meeting Admission Fee: <br>
-Trainee (e.g. Bachelor, Master & PhD students) - 25€ <br>
-Regular (e.g. postdocs, senior researchers, professors & non-academics) - 50€ </p>
+<p> 2022 ISMRM-IBC Annual Meeting Admission Fee: <br></p>
+
+**Early bird (until the 17th of June):**  
+Trainee (e.g. Bachelor, Master & PhD students) - 25€  
+Regular (e.g. postdocs, senior researchers, professors & non-academics) - 50€ 
+
+**Normal registration (after the 17th of June):**  
+Trainee (e.g. Bachelor, Master & PhD students) - 35€  
+Regular (e.g. postdocs, senior researchers, professors & non-academics) - 70€ 
 
 _This year there is a fee in the concept of donation for a symbolic price to guarantee your attendance to the event, but mainly to cover for lunch and dinner expenses._
+
+# **Meet our Sponsors** 🤝
+Nothing would be possible without the help of our amazing sponsors:
+
+<img src="{{ site.baseurl }}/assets/images/2nd_IBC_Sponsors.png" width="110%"/>
+
+# **Programme** 📅
+Check here the programme for the 2nd Annual Meeting:
+<img src="{{ site.baseurl }}/assets/images/Program png.PNG" width="110%"/>
+
 
